@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scences/20180428_Proto.unity
+  isLoaded: 1
+  isActive: 1
